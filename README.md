@@ -1,4 +1,4 @@
-# Hasil SS Data Komik Login, Register. DLL
+# Hasil SS Data Komik Login, Register. Dan Lain Lain
 
 # 1. Register 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/2240b70f-164c-431f-a3c3-d733821fc202" />
